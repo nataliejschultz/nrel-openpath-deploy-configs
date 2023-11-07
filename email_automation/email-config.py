@@ -1,4 +1,3 @@
-##########################################################################################
 
 import boto3
 from botocore.exceptions import ClientError
@@ -282,6 +281,7 @@ for email in email_extract():
 #     aws_access_key_id="",
 #     aws_secret_access_key= "",
 #     aws_session_token="",
+
 #     region_name=AWS_REGION
 #     )
 
